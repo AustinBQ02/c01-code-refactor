@@ -2,23 +2,27 @@
 
 ## Description
 
-This module's challenge involves a very important aspect of web development: accessibility.
+This project is focused on learning how to approach refactoring code with an emphasis on web accessibility.
 
+```
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it (recall that to refactor code is to improve it without changing what it does) to meet a certain set of standards or implement a new technology. In this Challenge, a marketing agency has hired you to refactor an existing site to make it more accessible.
-
+```
 
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+Deployed to GitHub pages - https://pages.github.com/
+- https://austinbq02.github.io/c01-code-refactor/
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Navigate to the Horiseon website then follow the instructions below:
+- https://austinbq02.github.io/c01-code-refactor/
+- Click on menu items in the navigation bar to automatically scroll to the appropriate sections.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 
-![alt text](assets/images/screenshot.png)
+
+![top half of Horiseon site](./assets/images/Horiseon1.jpg) ![bottom half of Horiseon](./assets/images/Horiseon2.jpg)
 
 ## Credits
 
